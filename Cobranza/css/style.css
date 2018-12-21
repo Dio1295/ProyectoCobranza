@@ -1,0 +1,86 @@
+html{
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	background-image: url(img/Fondo_HWW.png);
+	min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+}
+
+
+.nav-wrapper,.nav-content, .progress, footer.page-footer {
+    background-color: #d20a28;
+}
+.indeterminate{
+   background-color: #8c2332; 
+}
+
+H3, H5{
+    color: #fff;
+}
+.input-field {
+    color: #fff;
+}
+.input-field input[type=text]:focus + label{
+    color: #fff;
+}
+.input-field input[type=text]:focus {
+     border-bottom: 1px solid #fff;
+     box-shadow: 0 1px 0 0 #000; 
+}
+.input-field input[type=password]:focus + label{
+    color: #fff;
+}
+.input-field input[type=password]:focus {
+     border-bottom: 1px solid #fff;
+     box-shadow: 0 1px 0 0 #000; 
+}
+
+
+.btn, .btn-large {
+    color: #fff;
+}
+
+.waves-effect.waves-red .waves-ripple{
+    background-color: rgba(185, 20, 65);
+}
+
+
+
+.autocomplete-content li .highlight {
+  color: #8c2332;
+}
+
+.barra {
+    background-color: #969696;
+    height: 20px;
+}
+
+.btn-floating, btn-large {
+    background-color: #d20a28;
+}
+
+
+.logo {
+	background position: 0% 100%;
+	
+}
+
+select option {
+	color: #d20a28;
+}
+
+.container {
+	height: 100%;
+}
+
+.hafback {
+	background-image: url(../img/Hafele.jpg)
+}
+
+
+
+
+
+
